@@ -1,6 +1,6 @@
 # Custom
 
-.slurm/** # Slurm log files
+.slurm/ # Slurm log files
 
 
 # Byte-compiled / optimized / DLL files
